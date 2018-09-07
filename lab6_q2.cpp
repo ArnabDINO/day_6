@@ -32,5 +32,5 @@ int main()
 			cout<<endl;
 		}
 	}
-	return
+	return 0;
 }
